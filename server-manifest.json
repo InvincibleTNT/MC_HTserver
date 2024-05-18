@@ -3,7 +3,7 @@
   "author": "Q群：955360584",
   "version": "1.6-AutoUpdate",
   "description": "",
-  "fileApi": "https://github.com/InvincibleTNT/MC_HTserver/tree/main",
+  "fileApi": "https://gitee.com/InvincibleTNT/MC_HTserver/blob/main",
   "files": [
     {
       "path": "config/roughlyenoughitems/changelog.txt",
