@@ -6,10 +6,6 @@
   "fileApi": "https://gitee.com/InvincibleTNT/MC_HTserver/raw/main",
   "files": [
     {
-      "path": "config/fml.toml",
-      "hash": "480c691ae4a0b08d28a1a59b05544e8271038260"
-    },
-    {
       "path": "config/roughlyenoughitems/changelog.txt",
       "hash": "9c77b91cbc27142f1f21fab41dc32d22898cb479"
     },
