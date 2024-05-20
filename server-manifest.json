@@ -1,7 +1,7 @@
 {
   "name": "HT机械动力",
   "author": "Q群：955360584",
-  "version": "1.6.2-AutoUpdate",
+  "version": "1.6.3-AutoUpdate",
   "description": "",
   "fileApi": "https://gitee.com/InvincibleTNT/MC_HTserver/raw/main",
   "files": [
@@ -80,10 +80,6 @@
     {
       "path": "mods/【吃不停】AlwaysEat-5.2.jar",
       "hash": "250cafb62c3f73cce919a56899ebd94424036735"
-    },
-    {
-      "path": "mods/【多人开采】multimine-1.20.1.3.jar",
-      "hash": "326194bae5f59a09882f6209bd4cf9829bed0178"
     },
     {
       "path": "mods/【屠夫乐事】Butchersdelight beta 1.20.1 2.1.0.jar",
