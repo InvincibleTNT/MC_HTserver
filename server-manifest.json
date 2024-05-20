@@ -218,10 +218,6 @@
       "hash": "66a26248719b8a0d377145adec0b20f83cf253f7"
     },
     {
-      "path": "mods/【聊天气泡】[1.20-1.20.1] Comics Bubbles Chat-1.3.4.jar",
-      "hash": "704023d1816fd4a22b5c1176b73221e6e1caaede"
-    },
-    {
       "path": "mods/【通用拼音搜索】jecharacters-1.20.1-forge-4.5.9.jar",
       "hash": "39e7660eb1942e52eedf45bb2b72d5d3187a7454"
     },
@@ -244,6 +240,14 @@
     {
       "path": "resourcepacks/[汉化包-改] Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip",
       "hash": "c5c4b6a31a381732707469a349fb6d4f5af8eb7b"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "db2d665575bd96ec64e50457767694c52c45a471"
+    },
+    {
+      "path": "servers.dat_old",
+      "hash": "db2d665575bd96ec64e50457767694c52c45a471"
     }
   ],
   "addons": [
