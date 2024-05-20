@@ -6,6 +6,10 @@
   "fileApi": "https://gitee.com/InvincibleTNT/MC_HTserver/raw/main",
   "files": [
     {
+      "path": "icon.png",
+      "hash": "e5298d0ff7661019ab54e12c88f79466730518d7"
+    },
+    {
       "path": "mods/[前置] architectury-9.2.14-forge.jar",
       "hash": "a52918a500ff421180a1cbd1a0cabee712134ec4"
     },
