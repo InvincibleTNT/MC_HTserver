@@ -138,10 +138,6 @@
       "hash": "1ef1cb99c7204b7e3ff3ac1573b61e4ffe30da12"
     },
     {
-      "path": "mods/模组/科技类/机械动力/【机械动力：更多齿轮】extendedgears-2.1.1-1.20.1-0.5.1.f-forge.jar",
-      "hash": "4b75dfe17ebcc3c7e169d9d070cfedfdcf621a16"
-    },
-    {
       "path": "mods/模组/科技类/机械动力/【机械动力：柴油】createdieselgenerators-1.20.1-1.2h.jar",
       "hash": "738be989fe1818065ad0bbe5515b54690b0ee442"
     },
@@ -210,7 +206,7 @@
       "hash": "c914f9f4539b6bfbce915c41600e5cd5a883f12d"
     },
     {
-      "path": "mods/模组/辅助类/【多态合成】polymorph-forge-0.49.3+1.20.1.jar",
+      "path": "mods/模组/辅助类/【多态合成】polymorph-forge-0.49.3-1.20.1.jar",
       "hash": "8819c19fb9065baf5092be601ab1042f15de4cc1"
     },
     {
