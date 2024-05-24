@@ -1,9 +1,9 @@
 {
   "name": "HT机械动力",
-  "author": "-",
-  "version": "1.0",
+  "author": "Q群：955360584",
+  "version": "1.7.1-AutoUpdate",
   "description": "",
-  "fileApi": "https:",
+  "fileApi": "https://gitee.com/InvincibleTNT/MC_HTserver/raw/main",
   "files": [
     {
       "path": "icon.png",
