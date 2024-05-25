@@ -1,7 +1,7 @@
 {
   "name": "HT机械动力",
   "author": "Q群：955360584",
-  "version": "1.7.1-AutoUpdate",
+  "version": "1.7.2-AutoUpdate",
   "description": "",
   "fileApi": "https://gitee.com/InvincibleTNT/MC_HTserver/raw/main",
   "files": [
@@ -248,10 +248,6 @@
     {
       "path": "mods/模组/辅助类/【附魔描述】EnchantmentDescriptions-Forge-1.20.1-17.0.14.jar",
       "hash": "c588f932dcb7796ad6d334abd43777e718957058"
-    },
-    {
-      "path": "mods/模组/辅助类/【饰品栏】curios-forge-5.8.1 1.20.1.jar",
-      "hash": "987f67849c688cbedaf33439dc95e1c300f5feaf"
     },
     {
       "path": "mods/模组/辅助类/一键背包整理Next/【一键背包整理Next】InventoryProfilesNext-forge-1.20-1.10.10.jar",
