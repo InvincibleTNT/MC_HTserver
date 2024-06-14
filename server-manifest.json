@@ -18,6 +18,14 @@
       "hash": "c8fa438d69e84353cfbf30a3fea3488f"
     },
     {
+      "path": "config/thirst/common.toml",
+      "hash": "4d77b19d3c02569ea0796ecf110c4abc"
+    },
+    {
+      "path": "config/thirst/keyword.toml",
+      "hash": "38a861f5c51454c552a757a5930e19b1"
+    },
+    {
       "path": "mods/【机械动力】create-1.20.1-0.5.1.f.jar",
       "hash": "3fee3c26ebbfdfd59e1371ab73ba1f61b44ef6d0"
     },
