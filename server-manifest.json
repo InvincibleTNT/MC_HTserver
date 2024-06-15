@@ -7,7 +7,7 @@
   "files": [
     {
       "path": "icon.png",
-      "hash": "e5298d0ff7661019ab54e12c88f79466730518d7"
+      "hash": "3bc2e911ef8163d9d69e2890923e155e860e2ce9"
     },
     {
       "path": "mods/【子文件夹Mod扫描器】chms-1.18.2-1-2.jar",
@@ -37,6 +37,10 @@
       "path": "mods/【机械动力】create-1.20.1-0.5.1.f.jar",
       "hash": "3fee3c26ebbfdfd59e1371ab73ba1f61b44ef6d0"
     },
+    {
+      "path": "mods/【锦致装饰】supplementaries-1.20-2.8.15.jar",
+      "hash": "0a88d1e456be783648c547af54216d4831803976"
+    }
     {
       "path": "mods/【高清修复】OptiFine_1.20.1_HD_U_I6.jar",
       "hash": "3a1b211d0077cb55602f48a5991c6a42f8f7d844"
