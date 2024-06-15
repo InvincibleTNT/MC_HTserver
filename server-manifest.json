@@ -86,6 +86,10 @@
       "hash": "dbdbb42d93be41064cc2e4d901457a3d7ba00e1b"
     },
     {
+      "path": "mods/前置/【锦致装饰前置】moonlight-1.20-2.11.37-forge.jar",
+      "hash": "b70bc73c8e9459fd1bbd1e80ff5659f6"
+    },
+    {
       "path": "mods/模组/农业类/【农夫乐事】FarmersDelight-1.20.1-1.2.4.jar",
       "hash": "71daa55fd88b6f181c51ec6892600415df591f64"
     },
@@ -226,6 +230,10 @@
       "hash": "fca5ae7d457aa73805ef25a78327c3460d65fd28"
     },
     {
+      "path": "mods/模组/辅助类/【锦致装饰摆放效果】amendments-1.20-1.2.4.jar",
+      "hash": "99e8d27c6d7adf7a9a18697ae1971db7"
+    },
+    {
       "path": "mods/模组/辅助类/【物品聊天展示】showcaseitem-1.20.1-1.2.jar",
       "hash": "c551a27dc6aaf5f29ba0b98c62689a72ae99a2ef"
     },
@@ -243,6 +251,10 @@
     },
     {
       "path": "mods/模组/辅助类/【聊天头像】chat_heads-0.12.1-forge-1.20.jar",
+      "hash": "7b893d63e9b2b4eb6fcae431528ed0f70a8182fd"
+    },
+    {
+      "path": "mods/模组/辅助类/【锦致装饰摆放效果】amendments-1.20-1.2.4.jar",
       "hash": "7b893d63e9b2b4eb6fcae431528ed0f70a8182fd"
     },
     {
