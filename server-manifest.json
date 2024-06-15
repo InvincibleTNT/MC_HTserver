@@ -1,13 +1,17 @@
 {
   "name": "HT机械动力",
   "author": "Q群：955360584",
-  "version": "1.7.2-AutoUpdate",
+  "version": "2.0.0",
   "description": "",
   "fileApi": "https://gitee.com/InvincibleTNT/MC_HTserver/raw/main",
   "files": [
     {
       "path": "icon.png",
-      "hash": "5099148b4a286002307ba659bbc0ee09"
+      "hash": "3bc2e911ef8163d9d69e2890923e155e860e2ce9"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "9fe2a4a70b24c17a0e1ac04b3e9e14b0814900c3"
     },
     {
       "path": "mods/【子文件夹Mod扫描器】chms-1.18.2-1-2.jar",
@@ -39,7 +43,7 @@
     },
     {
       "path": "mods/【锦致装饰】supplementaries-1.20-2.8.15.jar",
-      "hash": "29dea9201f1810394edd9bab4630d6e0"
+      "hash": "0a88d1e456be783648c547af54216d4831803976"
     }
     {
       "path": "mods/【高清修复】OptiFine_1.20.1_HD_U_I6.jar",
