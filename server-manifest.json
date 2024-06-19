@@ -22,6 +22,10 @@
       "hash": "fae930529a9c41f91af95754dff7f594"
     }, 
     {
+      "path": "config/ding.toml",
+      "hash": "69e788790200c3bb116879967d10aefa"
+    }, 
+    {
       "path": "mods/模组/实用类/【精妙储存】sophisticatedstorage-1.20.1-0.10.25.804.jar",
       "hash": "c8fa438d69e84353cfbf30a3fea3488f"
     },
