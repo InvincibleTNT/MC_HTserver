@@ -38,6 +38,10 @@
       "hash": "99e8d27c6d7adf7a9a18697ae1971db7"
     },
     {
+      "path": "mods/【压缩动力前置】pneumaticcraft-repressurized-6.0.15+mc1.20.1.jar",
+      "hash": "bb2eda017a0779a199083364194dfd33"
+    },
+    {
       "path": "config/thirst/common.toml",
       "hash": "4d77b19d3c02569ea0796ecf110c4abc"
     },
@@ -152,10 +156,6 @@
     {
       "path": "mods/模组/科技类/机械动力/【机械动力：工业长路】tfmg-0.8.0b-1.20.1.jar",
       "hash": "5a9f706e27f2ca4a0f71710f22c4307bcf36d5d6"
-    },
-    {
-      "path": "mods/【压缩动力前置】pneumaticcraft-repressurized-6.0.15+mc1.20.1.jar",
-      "hash": "bb2eda017a0779a199083364194dfd33"
     },
     {
       "path": "mods/模组/科技类/机械动力/【铁路导航】createrailwaysnavigator-forge-1.20.1-0.5.5.jar",
