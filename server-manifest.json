@@ -26,6 +26,11 @@
       "hash": "b8f4de627a261da457a89639e40305e0"
 
     },
+        {
+      "path": "mods/瓦尔基里的天空120-2.3.0-beta.5.jar",
+      "hash": "edbddf585b74a4c4e505bf8273c69ebe"
+      
+    },
     {
       "path": "mods/【子文件夹Mod扫描器】chms-1.18.2-1-2.jar",
       "hash": "9eeb504789e14846f2b8b7970b25531e2e65c0ef"
@@ -204,11 +209,6 @@
     {
       "path": "mods/模组/科技类/机械动力/【机械动力物品附加】create-stuff-additions1.20.1_v2.0.4a.jar",
       "hash": "8c41d0e5cb078e51211064070f20624c"
-      
-    },
-    {
-      "path": "mods/模组/科技类/机械动力/【机械动力瓦尔基里】.jar",
-      "hash": "c9fe8be12f7c3cd1532358feffbca723a8296089"
       
     },
     {
