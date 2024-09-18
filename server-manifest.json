@@ -5,6 +5,22 @@
   "description": "",
   "fileApi": "https://gitee.com/InvincibleTNT/MC_HTserver/raw/main",
   "files": [
+     {
+      "path": "icon.png",
+      "hash": "3bc2e911ef8163d9d69e2890923e155e860e2ce9"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "9fe2a4a70b24c17a0e1ac04b3e9e14b0814900c3"
+    },
+    {
+      "path": "config/supplementaries-common.toml",
+      "hash": "fae930529a9c41f91af95754dff7f594"
+    }, 
+    {
+      "path": "config/ding.toml",
+      "hash": "69e788790200c3bb116879967d10aefa"
+    }, 
     {
       "path": "mods/【压缩动力前置】pneumaticcraft-repressurized-6.0.15+mc1.20.1.jar",
       "hash": "796da876fae98287d11f435a86f8290b3dee926c"
@@ -366,15 +382,10 @@
       
     },
     {
-      "path": "mods/模组/辅助类/瓦尔基里的天空120-2.3.0-beta.5.jar",
-      "hash": "cf2ad09ca6b53f621b2a6af507ccacbc88fbba5a"
-      
-    },
-    {
       "path": "mods/模组/辅助类/皮肤补丁CustomSkinLoader_ForgeV2-14.20.jar",
       "hash": "aaa14f86ad6b6f3b2edd923238ba972b6f2599cc"
       
-    },
+    }
   ],
   "addons": [
     {
