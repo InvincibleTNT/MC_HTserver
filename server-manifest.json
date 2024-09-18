@@ -6,313 +6,375 @@
   "fileApi": "https://gitee.com/InvincibleTNT/MC_HTserver/raw/main",
   "files": [
     {
-      "path": "icon.png",
-      "hash": "3bc2e911ef8163d9d69e2890923e155e860e2ce9"
-    },
-    {
-      "path": "hmclversion.cfg",
-      "hash": "9fe2a4a70b24c17a0e1ac04b3e9e14b0814900c3"
+      "path": "mods/【压缩动力前置】pneumaticcraft-repressurized-6.0.15+mc1.20.1.jar",
+      "hash": "796da876fae98287d11f435a86f8290b3dee926c"
+
     },
     {
       "path": "mods/【子文件夹Mod扫描器】chms-1.18.2-1-2.jar",
       "hash": "9eeb504789e14846f2b8b7970b25531e2e65c0ef"
-    },
-    {
-      "path": "config/supplementaries-common.toml",
-      "hash": "fae930529a9c41f91af95754dff7f594"
-    }, 
-    {
-      "path": "config/ding.toml",
-      "hash": "69e788790200c3bb116879967d10aefa"
-    }, 
-    {
-      "path": "mods/模组/实用类/【精妙储存】sophisticatedstorage-1.20.1-0.10.25.804.jar",
-      "hash": "c8fa438d69e84353cfbf30a3fea3488f"
-    },
-    {
-      "path": "mods/模组/辅助类/皮肤补丁CustomSkinLoader_ForgeV2-14.20.jar",
-      "hash": "8e582c42b69a294c02cb2b311f83f78b"
-    },
-    {
-      "path": "mods/模组/实用类/【遗体】corpse-forge-1.20.1-1.0.12.jar",
-      "hash": "7378c034a8d0b2b3bf50701d6f25c63c"
-    },
-    {
-      "path": "mods/模组/辅助类/【锦致装饰摆放效果】amendments-1.20-1.2.4.jar",
-      "hash": "99e8d27c6d7adf7a9a18697ae1971db7"
-    },
-    {
-      "path": "mods/【压缩动力前置】pneumaticcraft-repressurized-6.0.15+mc1.20.1.jar",
-      "hash": "bb2eda017a0779a199083364194dfd33"
-    },
-    {
-      "path": "config/thirst/common.toml",
-      "hash": "4d77b19d3c02569ea0796ecf110c4abc"
-    },
-    {
-      "path": "config/thirst/keyword.toml",
-      "hash": "38a861f5c51454c552a757a5930e19b1"
+      
     },
     {
       "path": "mods/【机械动力】create-1.20.1-0.5.1.f.jar",
       "hash": "3fee3c26ebbfdfd59e1371ab73ba1f61b44ef6d0"
+      
     },
     {
       "path": "mods/【锦致装饰】supplementaries-1.20-2.8.15.jar",
       "hash": "0a88d1e456be783648c547af54216d4831803976"
-    },
-    {
-      "path": "mods/【高清修复】OptiFine_1.20.1_HD_U_I6.jar",
-      "hash": "3a1b211d0077cb55602f48a5991c6a42f8f7d844"
+      
     },
     {
       "path": "mods/前置/[前置] architectury-9.2.14-forge.jar",
       "hash": "a52918a500ff421180a1cbd1a0cabee712134ec4"
+      
     },
     {
       "path": "mods/前置/[前置] balm-forge-1.20.1-7.2.2.jar",
       "hash": "637e8a504b6c577b90325778823240ec5dbcc0fe"
+      
     },
     {
       "path": "mods/前置/[前置] Bookshelf-Forge-1.20.1-20.1.10.jar",
       "hash": "6f9ac2d30eb64781ddd47ddf0b2ea84c32501e03"
+      
     },
     {
       "path": "mods/前置/[前置] botarium-forge-1.20.1-2.3.3.jar",
       "hash": "8a4b7f0d6e569370a73402eeda57418f456968d8"
+      
     },
     {
       "path": "mods/前置/[前置] cloth-config-11.1.118-forge.jar",
       "hash": "c46ca3fba95691873a765f4e79750c615f33e446"
+      
     },
     {
       "path": "mods/前置/[前置] collective-1.20.1-7.57.jar",
       "hash": "1776aee86fa94d7501e68d9ed0509273f41c85d5"
+      
     },
     {
       "path": "mods/前置/[前置] coroutil-forge-1.20.1-1.3.7.jar",
       "hash": "7f5f0b62a638b6053c95919cbe8c2bea2e0c93d0"
+      
     },
     {
       "path": "mods/前置/[前置] CreativeCore_FORGE_v2.11.24_mc1.20.1.jar",
       "hash": "951f1c5f4f24c03cc3661b7724a565539595603d"
+      
     },
     {
       "path": "mods/前置/[前置] kotlinforforge-4.3.0-all.jar",
       "hash": "8ee4cc16fa04a089f5386baae13137364c29a287"
+      
     },
     {
       "path": "mods/前置/[前置] libIPN-forge-1.20-4.0.2.jar",
       "hash": "3e7c7fcdc037a6ae3d9146e718d87fc83f88f6d5"
+      
     },
     {
       "path": "mods/前置/[前置] novacore-1.20.1-1.0.0-build.3.jar",
       "hash": "7fa54a78798b43e128bbbc724f012fda6e99a513"
+      
     },
     {
       "path": "mods/前置/[前置] Searchables-forge-1.20.1-1.0.3.jar",
       "hash": "ed5a23ec30c90fd06b3f1d8140614028e1fafaee"
+      
     },
     {
       "path": "mods/前置/[前置] sophisticatedcore-1.20.1-0.6.18.597.jar",
       "hash": "dbdbb42d93be41064cc2e4d901457a3d7ba00e1b"
+      
     },
     {
       "path": "mods/前置/【锦致装饰前置】moonlight-1.20-2.11.37-forge.jar",
-      "hash": "b70bc73c8e9459fd1bbd1e80ff5659f6"
+      "hash": "c17dea2edf575cbf903645e3e7b5cf6bf83250e4"
+      
     },
     {
       "path": "mods/模组/农业类/【农夫乐事】FarmersDelight-1.20.1-1.2.4.jar",
       "hash": "71daa55fd88b6f181c51ec6892600415df591f64"
+      
     },
     {
       "path": "mods/模组/农业类/屠夫乐事/【屠夫乐事】Butchersdelight beta 1.20.1 2.1.0.jar",
-      "hash": "eefde2b0a35ae4380c131ac083116b8f797afe56"
+      "hash": "9588b4205118a59ee8aa7249e8edf15298c5745c"
+      
     },
     {
       "path": "mods/模组/农业类/屠夫乐事/【屠夫乐事：食物】Butchersdelight Foods beta 1.20.1 1.0.3.jar",
-      "hash": "26d05418d4f6e683946a9096f9250d9fbd4ff453"
+      "hash": "242fe68e39df2b51cbccece3a4fa0b2a94689519"
+      
     },
     {
       "path": "mods/模组/实用类/【无中生有：传承】exnihilosequentia-1.20.1-5.0.0-build.8.jar",
-      "hash": "7f8ca58a047e2afafac03cefbc672e40e8b07aef"
+      "hash": "dc0792af6db9945c9468405452f4ce5a39f66a9f"
+      
+    },
+    {
+      "path": "mods/模组/实用类/【精妙储存】sophisticatedstorage-1.20.1-0.10.25.804.jar",
+      "hash": "0210b01407e1e9d43c0d706619c5448af0aa76bb"
+      
     },
     {
       "path": "mods/模组/实用类/【精妙背包】sophisticatedbackpacks-1.20.1-3.20.5.1039.jar",
       "hash": "52c9dc2703f4363bc8698441827ec02293dad836"
+      
+    },
+    {
+      "path": "mods/模组/实用类/【遗体】corpse-forge-1.20.1-1.0.12.jar",
+      "hash": "6da44b292908851cd8d3c522d5e00c320942830f"
+      
+    },
+    {
+      "path": "mods/模组/科技类/机械动力/【[CC\u0026A]机械动力电器】.jar",
+      "hash": "41f22b70ceb9f61db0306871f2ae9998b25ed4fd"
+      
+    },
+    {
+      "path": "mods/模组/科技类/机械动力/【压缩动力】compressedcreativity-1.20.1-0.1.8.b.jar",
+      "hash": "85ae03688b6809429ba947309c4887b2dd9ee836"
+      
+    },
+    {
+      "path": "mods/模组/科技类/机械动力/【机械动力 蒸汽动力】.jar",
+      "hash": "337a7e040abb17835ab1fa2be462967c6976602b"
+      
+    },
+    {
+      "path": "mods/模组/科技类/机械动力/【机械动力伪装版】Copycats-forge.1.20.1-1.2.6.jar",
+      "hash": "533857747aca191efc12daf16d40ef0dd83f73fd"
+      
+    },
+    {
+      "path": "mods/模组/科技类/机械动力/【机械动力实用物件】create_misc_and_things_ 1.20.1_4.0A.jar",
+      "hash": "c5a6e8ec10bca9c349698afade327ecc3fbbdf17"
+      
+    },
+    {
+      "path": "mods/模组/科技类/机械动力/【机械动力实用物品】.jar",
+      "hash": "cd53635cf37bd8c72e890abc49d72057b7f82980"
+      
+    },
+    {
+      "path": "mods/模组/科技类/机械动力/【机械动力工业长路】tfmg-0.8.0b-1.20.1.jar",
+      "hash": "5a9f706e27f2ca4a0f71710f22c4307bcf36d5d6"
+      
+    },
+    {
+      "path": "mods/模组/科技类/机械动力/【机械动力晶莹剔透-非官方】create_crystal_clear-1.0.jar",
+      "hash": "5eac76c39834485d7ea38d8cda6d20474f0964d1"
+      
+    },
+    {
+      "path": "mods/模组/科技类/机械动力/【机械动力更多齿轮】.jar",
+      "hash": "4b75dfe17ebcc3c7e169d9d070cfedfdcf621a16"
+      
+    },
+    {
+      "path": "mods/模组/科技类/机械动力/【机械动力村民小屋】create-structures-0.1.1-1.20.1-FORGE.jar",
+      "hash": "6bd0a029f7ae4e400b55f8355f73e69dc31bd1a8"
+      
+    },
+    {
+      "path": "mods/模组/科技类/机械动力/【机械动力汽鸣铁道】Steam_Rails-1.6.4+forge-mc1.20.1.jar",
+      "hash": "1fa6261d8bcde2feb200886e2ff6cfcbbdb53e17"
+      
+    },
+    {
+      "path": "mods/模组/科技类/机械动力/【机械动力物品附加】create-stuff-additions1.20.1_v2.0.4a.jar",
+      "hash": "d59e52e255f6c0c0c36be84ce33b1d54d9abeb96"
+      
+    },
+    {
+      "path": "mods/模组/科技类/机械动力/【机械动力瓦尔基里】.jar",
+      "hash": "c9fe8be12f7c3cd1532358feffbca723a8296089"
+      
+    },
+    {
+      "path": "mods/模组/科技类/机械动力/【机械动力附加】createaddition-1.20.1-1.2.3.jar",
+      "hash": "dcb0f28ce8d77d8ef2d2f1004c5520f66e5ca0ef"
+      
+    },
+    {
+      "path": "mods/模组/科技类/机械动力/【机械动力附魔工艺】create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar",
+      "hash": "eec891067ec8c72fdaeb97bece103eed5e10e719"
+      
     },
     {
       "path": "mods/模组/科技类/机械动力/【机械动力：中央厨房】create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar",
       "hash": "92f89bdf6868c2f2b44e8a7acdc0da4be108ba1b"
-    },
-    {
-      "path": "mods/模组/科技类/机械动力/【机械动力：伪装版】Copycats-forge.1.20.1-1.2.6.jar",
-      "hash": "533857747aca191efc12daf16d40ef0dd83f73fd"
+      
     },
     {
       "path": "mods/模组/科技类/机械动力/【机械动力：喷气背包】create_jetpack-forge-4.2.1.jar",
       "hash": "c40fcd571b6072d5c0f550c2978e1eca57510ea5"
-    },
-    {
-      "path": "mods/模组/科技类/机械动力/【机械动力：实用物件】create_misc_and_things_ 1.20.1_4.0A.jar",
-      "hash": "c5a6e8ec10bca9c349698afade327ecc3fbbdf17"
-    },
-    {
-      "path": "mods/模组/科技类/机械动力/【机械动力：工业长路】tfmg-0.8.0b-1.20.1.jar",
-      "hash": "5a9f706e27f2ca4a0f71710f22c4307bcf36d5d6"
-    },
-    {
-      "path": "mods/模组/科技类/机械动力/【铁路导航】createrailwaysnavigator-forge-1.20.1-0.5.5.jar",
-      "hash": "119e6cbb90dce7238bcdbcac85b767d0"
-    },
-    {
-      "path": "mods/模组/科技类/机械动力/【压缩动力】compressedcreativity-1.20.1-0.1.8.b.jar",
-      "hash": "efbcf992fc4ea02bce8048b16a967e9d"
-    },
-    {
-      "path": "mods/模组/科技类/机械动力/【矿石开掘】createoreexcavation-1.20-1.5.0.jar",
-      "hash": "afa5de58ba835605160ce45415d17a63"
-    },
-    {
-      "path": "mods/模组/科技类/机械动力/【机械动力村民小屋】create-structures-0.1.1-1.20.1-FORGE.jar",
-      "hash": "0cb30674cab22e70fd710c9ac16e2e99"
-    },
-    {
-      "path": "mods/模组/科技类/机械动力/【机械动力：晶莹剔透-非官方】create_crystal_clear-1.0.jar",
-      "hash": "1ef1cb99c7204b7e3ff3ac1573b61e4ffe30da12"
-    },
-    {
-      "path": "mods/模组/科技类/机械动力/【机械动力：汽鸣铁道】Steam_Rails-1.6.4+forge-mc1.20.1.jar",
-      "hash": "1fa6261d8bcde2feb200886e2ff6cfcbbdb53e17"
-    },
-    {
-      "path": "mods/模组/科技类/机械动力/【机械动力：物品附加】create-stuff-additions1.20.1_v2.0.4a.jar",
-      "hash": "d59e52e255f6c0c0c36be84ce33b1d54d9abeb96"
+      
     },
     {
       "path": "mods/模组/科技类/机械动力/【机械动力：筛子】createsifter-1.20.1-1.8.1.e-22.jar",
       "hash": "6355c9b3fbfa667d0498be9b425f8ed13d800a48"
+      
     },
     {
-      "path": "mods/模组/科技类/机械动力/【机械动力：附加】createaddition-1.20.1-1.2.3.jar",
-      "hash": "dcb0f28ce8d77d8ef2d2f1004c5520f66e5ca0ef"
+      "path": "mods/模组/科技类/机械动力/【矿石开掘】createoreexcavation-1.20-1.5.0.jar",
+      "hash": "d1d085b0352e9fc037aff294ef06ffccc463ca70"
+      
     },
     {
-      "path": "mods/模组/科技类/机械动力/【机械动力：附魔工艺】create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar",
-      "hash": "eec891067ec8c72fdaeb97bece103eed5e10e719"
+      "path": "mods/模组/科技类/机械动力/【铁路导航】createrailwaysnavigator-forge-1.20.1-0.5.5.jar",
+      "hash": "f64d914a863098e2bb58403e1e120a3eccd34393"
+      
     },
     {
       "path": "mods/模组/辅助类/JEI物品管理器/【JEI物品管理器】jei-1.20.1-forge-15.3.0.4.jar",
       "hash": "1a431d34991d51998f9971c4291bac2d58eaa154"
+      
     },
     {
       "path": "mods/模组/辅助类/JEI物品管理器/【JEI：战利品】JustEnoughResources-1.20.1-1.4.0.247.jar",
       "hash": "2747c58f439c37a01139d35cab59ca1a54114009"
+      
     },
     {
       "path": "mods/模组/辅助类/JEI物品管理器/【JEI：扩展】jeiintegration_1.20.1-10.0.0.jar",
       "hash": "0aa9c598105938ee0be35f1c1b31ab5d936b0ef6"
+      
     },
     {
       "path": "mods/模组/辅助类/JEI物品管理器/【JEI：繁殖】justenoughbreeding-forge-1.20.x-1.2.1.jar",
       "hash": "b00f42235859d1effda49cd79cf709afbeba9b67"
+      
     },
     {
       "path": "mods/模组/辅助类/【东寻西觅】findme-3.2.1-forge.jar",
       "hash": "c5f81bfb1ac556bf0eb197aecd0f1fe3b5469ce0"
-    },
-    {
-      "path": "mods/模组/辅助类/【口渴】ThirstWasTaken-1.20.1-1.3.7.jar",
-      "hash": "a93ba9e5e1dfc91953d1bc324091c85e"
+      
     },
     {
       "path": "mods/模组/辅助类/【他们在干什么】watut-forge-1.20.1-1.1.1.jar",
       "hash": "fd0d12a3909d19d19002523e2e55a080bf50b75c"
+      
+    },
+    {
+      "path": "mods/模组/辅助类/【口渴】ThirstWasTaken-1.20.1-1.3.7.jar",
+      "hash": "f44564e8bd9ce8e78676fec7a695988486504bcb"
+      
     },
     {
       "path": "mods/模组/辅助类/【吃不停】AlwaysEat-5.2.jar",
       "hash": "250cafb62c3f73cce919a56899ebd94424036735"
+      
     },
     {
       "path": "mods/模组/辅助类/【合成辅助】craftingtweaks-forge-1.20.1-18.2.3.jar",
       "hash": "c914f9f4539b6bfbce915c41600e5cd5a883f12d"
+      
     },
     {
       "path": "mods/模组/辅助类/【旅行地图】journeymap-1.20.1-5.9.20-forge.jar",
       "hash": "c0c39f7c91845f1543e0bd7e8e37cc02b28a8fc4"
+      
     },
     {
       "path": "mods/模组/辅助类/【无边框全屏】BorderlessWindow-1.20-1.6.0.jar",
       "hash": "2dc2dca0371065bf384b6486827451da441b5471"
+      
     },
     {
       "path": "mods/模组/辅助类/【更真实的第一人称模型】firstperson-forge-2.3.4-mc1.20.1.jar",
       "hash": "6569c9ae1dc7e4563739eae3a3474153548e2024"
+      
     },
     {
       "path": "mods/模组/辅助类/【极简血量显示】Neat-1.20-35-FORGE.jar",
       "hash": "64a1e156a84e79db35312b33f84ba6b7f8064f1a"
+      
     },
     {
       "path": "mods/模组/辅助类/【滚筒飞行】do_a_barrel_roll-forge-3.5.6 1.20.1.jar",
       "hash": "08b58bfbdf20660bdc5a0c4a0b088f7d89f40a38"
+      
     },
     {
       "path": "mods/模组/辅助类/【物品物理掉落】ItemPhysic_FORGE_v1.7.0_mc1.20.1.jar",
       "hash": "fca5ae7d457aa73805ef25a78327c3460d65fd28"
+      
     },
     {
       "path": "mods/模组/辅助类/【物品聊天展示】showcaseitem-1.20.1-1.2.jar",
       "hash": "c551a27dc6aaf5f29ba0b98c62689a72ae99a2ef"
+      
     },
     {
       "path": "mods/模组/辅助类/【物理声效】sound-physics-remastered-forge-1.20.1-1.3.1.jar",
       "hash": "47b74fae41e3a677dbbb939d67b4160f3e4af5b6"
+      
     },
     {
       "path": "mods/模组/辅助类/【界面进入提醒】Ding-1.20.1-Forge-1.4.1.jar",
       "hash": "c46db36e9fc40865d54590c1a59ea71915e341a6"
+      
     },
     {
       "path": "mods/模组/辅助类/【聊天头像】chat_heads-0.12.1-forge-1.20.jar",
       "hash": "7b893d63e9b2b4eb6fcae431528ed0f70a8182fd"
+      
     },
     {
       "path": "mods/模组/辅助类/【苹果皮】appleskin-forge-mc1.20.1-2.5.1.jar",
       "hash": "81919356f84eab14258db98924b66c3c38e372b1"
+      
     },
     {
       "path": "mods/模组/辅助类/【通用拼音搜索】jecharacters-1.20.1-forge-4.5.9.jar",
       "hash": "39e7660eb1942e52eedf45bb2b72d5d3187a7454"
+      
     },
     {
       "path": "mods/模组/辅助类/【配置界面】configured-forge-1.20.1-2.2.3.jar",
       "hash": "065c2d287a52f52fc8d33d780192325ee6f4b6ae"
+      
+    },
+    {
+      "path": "mods/模组/辅助类/【锦致装饰摆放效果】amendments-1.20-1.2.4.jar",
+      "hash": "f14c3716176aed14fb7a156bb71204fa62c224c8"
+      
     },
     {
       "path": "mods/模组/辅助类/【键位冲突显示】Controlling-forge-1.20.1-12.0.2.jar",
       "hash": "f6d3cdd3ec68c5590cf5b2e89c38dbf031824bfd"
+      
     },
     {
       "path": "mods/模组/辅助类/【附魔描述】EnchantmentDescriptions-Forge-1.20.1-17.0.14.jar",
       "hash": "c588f932dcb7796ad6d334abd43777e718957058"
+      
     },
     {
       "path": "mods/模组/辅助类/一键背包整理Next/【一键背包整理Next】InventoryProfilesNext-forge-1.20-1.10.10.jar",
       "hash": "4741ea1fd6d1593b693a389b7c6e1e47690ac3ad"
+      
     },
     {
       "path": "mods/模组/辅助类/一键背包整理Next/【一键背包整理Next：R键整理键位】InvTweaksEmuForIPN-forge-1.20-1.0.7.jar",
       "hash": "dd34c68decc9bccf2ab8d92cf1196e004737bdf2"
+      
     },
     {
-      "path": "servers.dat",
-      "hash": "911c042dce940ca87052ea04542feb15113c31b5"
+      "path": "mods/模组/辅助类/瓦尔基里的天空120-2.3.0-beta.5.jar",
+      "hash": "cf2ad09ca6b53f621b2a6af507ccacbc88fbba5a"
+      
     },
     {
-      "path": "servers.dat_old",
-      "hash": "911c042dce940ca87052ea04542feb15113c31b5"
-    }
+      "path": "mods/模组/辅助类/皮肤补丁CustomSkinLoader_ForgeV2-14.20.jar",
+      "hash": "aaa14f86ad6b6f3b2edd923238ba972b6f2599cc"
+      
+    },
   ],
   "addons": [
     {
