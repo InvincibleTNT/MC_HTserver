@@ -21,11 +21,6 @@
       "path": "config/ding.toml",
       "hash": "69e788790200c3bb116879967d10aefa"
     }, 
-    {
-      "path": "mods/【压缩动力前置】pneumaticcraft-repressurized-6.0.15+mc1.20.1.jar",
-      "hash": "b8f4de627a261da457a89639e40305e0"
-
-    },
         {
       "path": "mods/瓦尔基里的天空120-2.3.0-beta.5.jar",
       "hash": "edbddf585b74a4c4e505bf8273c69ebe"
@@ -154,11 +149,6 @@
     {
       "path": "mods/模组/科技类/机械动力/【[CC\u0026A]机械动力电器】.jar",
       "hash": "41f22b70ceb9f61db0306871f2ae9998b25ed4fd"
-      
-    },
-    {
-      "path": "mods/模组/科技类/机械动力/【压缩动力】compressedcreativity-1.20.1-0.1.8.b.jar",
-      "hash": "85ae03688b6809429ba947309c4887b2dd9ee836"
       
     },
     {
