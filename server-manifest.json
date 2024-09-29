@@ -14,6 +14,26 @@
       "hash": "9fe2a4a70b24c17a0e1ac04b3e9e14b0814900c3"
     },
     {
+      "path": "CustomSkinLoader/LittleSkin.json",
+      "hash": "f7eb85d7af53bc8c2836f08dc5f60d1b"
+    },
+{
+      "path": "config/thirst/common.toml",
+      "hash": "4d77b19d3c02569ea0796ecf110c4abc"
+    }, 
+   {
+      "path": "config/thirst/item_settings.toml",
+      "hash": "181f153de0bd4dc6a1d5b59ad417386b"
+    }, 
+   {
+      "path": "config/thirst/keyword.toml",
+      "hash": "8099fdd7eeb460639d19fa11593356e6"
+    }, 
+   {
+      "path": "config/thirst/client.toml",
+      "hash": "758c01646ff53da505ae1f220d1af290"
+    },
+    {
       "path": "config/supplementaries-common.toml",
       "hash": "fae930529a9c41f91af95754dff7f594"
     }, 
