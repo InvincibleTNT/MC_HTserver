@@ -48,12 +48,7 @@
     {
       "path": "mods/光影/修补着色器oculus-flywheel-compat-forge1.20.1+1.1.3.jar",
       "hash": "73701d73290b25a7acb9fb54af37a1aa"
-    },
-    {
-      "path": "mods/光影/铷rubidium-mc1.20.1-0.7.1a.jar",
-      "hash": "234d6ddfff9313fb943abf4d038fe5f4"
-    },
-    
+    },   
     {
       "path": "mods/前置/[前置] architectury-9.2.14-forge.jar",
       "hash": "a52918a500ff421180a1cbd1a0cabee712134ec4"
