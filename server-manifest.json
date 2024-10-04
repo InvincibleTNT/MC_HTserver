@@ -193,6 +193,14 @@
       "hash": "533857747aca191efc12daf16d40ef0dd83f73fd"
       
     },
+   {
+      "path": "mods/模组/科技类/机械动力/【机械动力：液体燃料】createliquidfuel-2.1.1-1.20.1.jar",
+      "hash": "0544b7cffca680c1b6aebf86c5e09570" 
+    },
+    {
+      "path": "mods/模组/科技类/机械动力/【机械动力：柴油动力】createdieselgenerators-1.20.1-1.2i.jar",
+      "hash": "86d2d812dd65181683230e79d1585d58" 
+    },
     {
       "path": "mods/模组/科技类/机械动力/【机械动力实用物件】create_misc_and_things_ 1.20.1_4.0A.jar",
       "hash": "c5a6e8ec10bca9c349698afade327ecc3fbbdf17"
