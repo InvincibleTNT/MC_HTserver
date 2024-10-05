@@ -14,14 +14,10 @@
       "hash": "0fb02bdba26ca1305b080701b85ebb56"
     },
     {
-      "path": "server-manifest.json",
-      "hash": "3fbc7942ede04d997b3694e95a39ed15"
-    },
-    {
       "path": "CustomSkinLoader/LittleSkin.json",
       "hash": "f7eb85d7af53bc8c2836f08dc5f60d1b"
     },
-{
+   {
       "path": "config/thirst/common.toml",
       "hash": "4d77b19d3c02569ea0796ecf110c4abc"
     }, 
