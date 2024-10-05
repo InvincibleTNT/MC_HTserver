@@ -68,7 +68,15 @@
     {
       "path": "mods/光影/修补着色器oculus-mc1.20.1-1.7.0.jar",
       "hash": "745b96133bb46cc61dd9778bd4fca741d"
-    },   
+    },
+    {
+      "path": "mods/光影/钠Embeddium：附属sodiumextras-forge-1.0.5-1.20.1.jar",
+      "hash": "ca5266171091ce0c12ea2758bb04e406"
+    },  
+    {
+      "path": "mods/光影/钠Embeddium：动态光源sodiumdynamiclights-forge-1.0.8-1.20.1.jar",
+      "hash": "786f645ac7fc0d3073df4a2a7c5110b8"
+    },     
     {
       "path": "mods/前置/[前置] architectury-9.2.14-forge.jar",
       "hash": "a52918a500ff421180a1cbd1a0cabee712134ec4"
