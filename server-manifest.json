@@ -307,8 +307,11 @@
     },
     {
       "path": "mods/模组/辅助类/【东寻西觅】findme-3.2.1-forge.jar",
-      "hash": "c5f81bfb1ac556bf0eb197aecd0f1fe3b5469ce0"
-      
+      "hash": "c5f81bfb1ac556bf0eb197aecd0f1fe3b5469ce0"     
+    },
+    {
+      "path": "mods/模组/辅助类/【内存清理】memorysweep-1.20.1-1.1.2-forge.jar",
+      "hash": "978bc7c32ce8c39fdbdeb373bc245771"     
     },
     {
       "path": "mods/模组/辅助类/【他们在干什么】watut-forge-1.20.1-1.1.1.jar",
