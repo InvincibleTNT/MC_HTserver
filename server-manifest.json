@@ -98,7 +98,10 @@
     {
       "path": "mods/前置/[前置] Bookshelf-Forge-1.20.1-20.1.10.jar",
       "hash": "6f9ac2d30eb64781ddd47ddf0b2ea84c32501e03"
-      
+    },
+    {
+      "path": "mods/前置/【前置有矿】blueprint-1.20.1-7.1.0.jar",
+      "hash": "83f35ee21c8d632edde3f1cf650329a7"
     },
     {
       "path": "mods/前置/[前置] botarium-forge-1.20.1-2.3.3.jar",
